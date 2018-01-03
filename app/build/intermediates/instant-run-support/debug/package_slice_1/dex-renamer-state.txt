@@ -1,0 +1,4 @@
+#Wed Jan 03 16:40:55 BDT 2018
+base.0=E\:\\Android\\android-vision-master\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1
+renamed.0=classes.dex
+file.0=E\:\\Android\\android-vision-master\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1\\classes.dex

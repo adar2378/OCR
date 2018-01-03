@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Android\\android-vision-master\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\Master Adar\\.android\\build-cache\\ec7480cfdc2789580cff3287619a599c12444efb\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "E:\\Android\\android-vision-master\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Master Adar\\.android\\build-cache\\ec7480cfdc2789580cff3287619a599c12444efb\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\Android\\android-vision-master\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Master Adar\\.android\\build-cache\\ec7480cfdc2789580cff3287619a599c12444efb\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]
