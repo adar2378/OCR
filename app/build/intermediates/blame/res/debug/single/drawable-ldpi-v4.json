@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\Android\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Users\\Master Adar\\.android\\build-cache\\43a8449299c735537ecd9688b1efbe0fdc01f51f\\output\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
         "merged": "E:\\Android\\android-vision-master\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
         "source": "C:\\Users\\Master Adar\\.android\\build-cache\\43a8449299c735537ecd9688b1efbe0fdc01f51f\\output\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
     }

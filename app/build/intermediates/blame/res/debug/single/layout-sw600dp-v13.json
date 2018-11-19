@@ -2,5 +2,9 @@
     {
         "merged": "E:\\Android\\android-vision-master\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
         "source": "C:\\Users\\Master Adar\\.android\\build-cache\\ec7480cfdc2789580cff3287619a599c12444efb\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Android\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Master Adar\\.android\\build-cache\\ec7480cfdc2789580cff3287619a599c12444efb\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     }
 ]

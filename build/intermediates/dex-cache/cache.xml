@@ -3,6 +3,24 @@
 
     <item
         is-multidex="true"
+        jar="E:\Android\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="E:\Android\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9d5faa8ddfbdfe2d6b2969494e9692825384b193\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\ocr-reader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="E:\Android\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_42257d2cdf738400c34851898d03c2a0da35b460\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="E:\Android\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
@@ -12,12 +30,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="E:\Android\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="E:\Android\ocr-reader\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
-        <dex dex="E:\Android\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9d5faa8ddfbdfe2d6b2969494e9692825384b193\classes.dex" />
+        sha1="5bd7cee92c547530108a7c67f4a59c2a54fa4413">
+        <dex dex="E:\Android\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0b1fb415c4782aa51e507b2b9b697974f4dd8ae1\classes.dex" />
     </item>
 
 </items>

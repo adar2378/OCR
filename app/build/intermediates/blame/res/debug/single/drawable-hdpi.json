@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\Android\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "E:\\Android\\ocr-reader\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
         "merged": "E:\\Android\\android-vision-master\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
         "source": "E:\\Android\\android-vision-master\\android-vision-master\\visionSamples\\ocr-reader\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
     }
